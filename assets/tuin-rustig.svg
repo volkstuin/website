@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 860" role="img" aria-label="Rustige geïllustreerde volkstuin met bloemen, moestuinbedden en een kas">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#d8e9e4"/><stop offset="1" stop-color="#f5f0d9"/></linearGradient><linearGradient id="field" x2="0" y2="1"><stop stop-color="#91af79"/><stop offset="1" stop-color="#567a4b"/></linearGradient><linearGradient id="glass" x2="1" y2="1"><stop stop-color="#ddf1e7" stop-opacity=".94"/><stop offset="1" stop-color="#acd1c0" stop-opacity=".45"/></linearGradient><pattern id="soil" width="56" height="40" patternUnits="userSpaceOnUse"><path d="M0 35 Q28 15 56 35" stroke="#aa8c69" stroke-opacity=".43" stroke-width="2" fill="none"/></pattern></defs>
+<rect width="1600" height="860" fill="url(#sky)"/>
+<circle cx="1317" cy="124" r="55" fill="#f5e3a6" opacity=".82"/>
+<path d="M0 391 Q180 330 360 392T750 386T1190 363T1600 371V860H0Z" fill="#b2c7a2"/>
+<path d="M0 428 Q300 380 620 432T1200 404T1600 423V860H0Z" fill="url(#field)"/>
+<g fill="#547f58" opacity=".78"><circle cx="90" cy="373" r="66"/><circle cx="155" cy="390" r="48"/><circle cx="330" cy="383" r="72"/><circle cx="458" cy="397" r="47"/><circle cx="758" cy="400" r="80"/><circle cx="855" cy="405" r="56"/><circle cx="1100" cy="390" r="66"/><circle cx="1250" cy="398" r="82"/><circle cx="1530" cy="387" r="82"/></g>
+<path d="M0 489 Q800 460 1600 495" fill="none" stroke="#d0d9b4" stroke-width="17"/>
+<path d="M0 521 Q750 498 1600 540" fill="none" stroke="#3c6447" stroke-width="13"/>
+<path d="M80 860L305 526H1245L1540 860Z" fill="#dbcfaa"/>
+<path d="M230 860L390 538M1360 860L1190 538M780 860L790 538" stroke="#f4ecd2" stroke-width="38" fill="none"/>
+<!-- understated greenhouse -->
+<g transform="translate(1082 233)"><path d="M0 222V98L148 3L291 99V222Z" fill="url(#glass)" stroke="#356a54" stroke-width="9"/><path d="M149 4V225M0 98H292M54 66V221M242 67V222M90 36V221M210 36V222" stroke="#356a54" stroke-width="6" fill="none"/><path d="M115 222V122H179V222" fill="#c4dcd0" stroke="#356a54" stroke-width="5"/><g fill="#5f9e65"><ellipse cx="27" cy="190" rx="19" ry="45"/><ellipse cx="263" cy="183" rx="24" ry="40"/></g></g>
+<!-- allotment plot frames -->
+<g fill="#7c5838" stroke="#4b392e" stroke-width="5"><path d="M80 655L470 608L750 658L335 727Z"/><path d="M865 645L1267 600L1530 652L1105 723Z"/><path d="M343 778L758 694L1040 764L610 852Z"/></g>
+<g fill="#76543b"><path d="M83 656L335 728V754L83 679Z"/><path d="M335 728L752 658V682L335 754Z"/><path d="M865 645L1105 723V749L865 670Z"/><path d="M1105 723L1530 651V676L1105 749Z"/><path d="M344 778L608 851V860L344 801Z"/></g>
+<path d="M104 650L469 618L708 663L340 716Z" fill="#684c35"/><path d="M882 640L1269 609L1503 652L1102 709Z" fill="#684c35"/><path d="M375 778L755 705L1006 764L607 840Z" fill="#684c35"/>
+<!-- rhythmic plants: neat, full but not childish -->
+<g fill="#537f48"><path d="M130 632q10-49 27-7q18-50 30 0q15-39 27-5q18-40 37-5q12-36 29-6q15-33 29-3q14-36 31-6q15-30 30 0q12-28 30-1q13-27 35-1"/><path d="M907 616q15-53 32-8q23-49 33-5q17-44 32-9q20-46 38-9q20-45 39-8q16-38 33-7q24-50 44-4q17-39 35-5q22-38 39-4"/><path d="M421 763q20-47 40-9q22-50 40-7q22-46 44-6q17-43 39-7q22-52 44-7q22-47 44-7q22-42 45-5q19-38 37-6"/></g>
+<g fill="#8baf71"><ellipse cx="185" cy="641" rx="41" ry="21"/><ellipse cx="275" cy="634" rx="40" ry="23"/><ellipse cx="384" cy="619" rx="33" ry="19"/><ellipse cx="508" cy="639" rx="45" ry="22"/><ellipse cx="627" cy="645" rx="41" ry="21"/><ellipse cx="948" cy="644" rx="37" ry="19"/><ellipse cx="1052" cy="632" rx="41" ry="22"/><ellipse cx="1185" cy="628" rx="45" ry="25"/><ellipse cx="1370" cy="642" rx="40" ry="22"/><ellipse cx="471" cy="770" rx="37" ry="20"/><ellipse cx="583" cy="747" rx="43" ry="22"/><ellipse cx="730" cy="760" rx="42" ry="20"/><ellipse cx="840" cy="750" rx="35" ry="18"/></g>
+<!-- tomato canes and vines -->
+<g stroke="#a07c4f" stroke-width="6" fill="none"><path d="M382 596V452M445 590V448M508 590V450M382 452L508 453M390 520H508"/></g>
+<g stroke="#42794e" stroke-width="13" stroke-linecap="round" fill="none"><path d="M397 581Q370 534 404 494Q426 471 448 485Q489 502 463 553"/><path d="M486 585Q505 550 480 512Q457 493 452 476"/></g>
+<g fill="#bc553f"><circle cx="420" cy="527" r="15"/><circle cx="468" cy="543" r="14"/><circle cx="397" cy="560" r="15"/><circle cx="488" cy="572" r="15"/></g>
+<!-- gardeners rendered as subtle elegant silhouettes -->
+<g transform="translate(715 380)"><path d="M-21 54L-29 155H-7L7 100L25 157H44L22 57" fill="#585a4f"/><path d="M-32-8Q-3-25 27 0L37 68H-26Z" fill="#7f9c8e"/><circle cx="-1" cy="-29" r="21" fill="#cfac87"/><path d="M-27-45Q1-75 25-42" stroke="#a48b62" stroke-width="15" fill="none"/><path d="M24 20L73 63" stroke="#cfac87" stroke-width="12"/><path d="M65 55L96 168" stroke="#86694c" stroke-width="7"/></g>
+<g transform="translate(956 426)"><path d="M-22 57L-34 120H-9L7 86L22 129H41L25 61Z" fill="#6e6557"/><path d="M-27-9L20-11L40 66H-37Z" fill="#b5a47d"/><circle cx="-2" cy="-32" r="19" fill="#c4a384"/><path d="M-27-46Q-3-65 26-44" stroke="#8b8d77" stroke-width="12" fill="none"/><path d="M-26 24L-83 62" stroke="#c4a384" stroke-width="10"/></g>
+<!-- botanical borders -->
+<g fill="#385b40"><path d="M0 860Q30 738 66 844Q77 743 120 854Q162 729 201 852Q251 730 298 860Z"/><path d="M1292 860Q1340 730 1385 845Q1411 700 1459 853Q1502 738 1542 855Q1580 741 1600 844V860Z"/></g>
+<g fill="#cc8f9e"><circle cx="82" cy="735" r="17"/><circle cx="127" cy="789" r="17"/><circle cx="161" cy="724" r="17"/><circle cx="1456" cy="744" r="17"/><circle cx="1503" cy="805" r="17"/><circle cx="1557" cy="754" r="17"/></g><g fill="#e8c879"><circle cx="82" cy="735" r="6"/><circle cx="127" cy="789" r="6"/><circle cx="161" cy="724" r="6"/><circle cx="1456" cy="744" r="6"/><circle cx="1503" cy="805" r="6"/><circle cx="1557" cy="754" r="6"/></g>
+<!-- foreground elegant vegetable silhouettes -->
+<g fill="#a96d43"><path d="M35 847L68 786L95 845Z"/><path d="M105 859L128 793L149 858Z"/></g>
+<g fill="#577d4c"><ellipse cx="65" cy="786" rx="28" ry="13"/><ellipse cx="127" cy="794" rx="29" ry="13"/><ellipse cx="218" cy="851" rx="52" ry="28"/></g>
+</svg>

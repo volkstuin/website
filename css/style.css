@@ -36,3 +36,7 @@
 .home-hero .actions .btn{font-size:.88rem}
 @media(max-width:950px){.home-hero-grid{grid-template-columns:1fr;gap:22px;padding-top:35px;padding-bottom:35px}.home-hero-copy{padding:0}.home-hero-copy h1{max-width:800px}.home-hero-visual{margin:0;border-radius:22px}.home-hero-visual img{height:auto;min-height:0;max-height:440px}.home-intro-wrap{gap:40px}.home-card-grid{gap:14px}.home-card{padding:22px;min-height:330px}}
 @media(max-width:700px){.home-hero-copy h1{font-size:clamp(2.65rem,12vw,4.1rem)}.home-hero-copy p{font-size:1rem}.home-hero-visual img{max-height:300px}.home-intro-wrap,.home-card-grid{grid-template-columns:1fr;gap:22px}.home-intro-wrap>div:last-child{padding-top:0}.home-card{min-height:260px}}
+
+/* Pagina’s met één foto: tekst benut de volledige breedte. */
+.single-photo-text{display:block;max-width:850px;margin-left:auto;margin-right:auto}
+@media(max-width:700px){.single-photo-text{max-width:100%}}
